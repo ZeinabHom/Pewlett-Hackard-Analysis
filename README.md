@@ -81,9 +81,9 @@ In second part of this project, The mentorship-eligibility table is created to s
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact
 The below table shows that the number of retirement- age employees in each departments. Development and production departments have the maximum  of retirement- age employees. Finance department has the minimum of retirement- age employees.
-```
-![Alt text](C:\Users\zeina\Desktop\3.png?raw=true)
-```
+
+![3](https://user-images.githubusercontent.com/91231253/146324316-15bea3b4-a8df-4a03-a9d5-8c01f7aff0ae.png)
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 The below table shows the number of  mentorship eligible for each department, the maximum number is 396 for development department and  the minimum number is 64 for finance department.
 
