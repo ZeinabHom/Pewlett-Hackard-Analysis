@@ -86,5 +86,5 @@ The below table shows that the number of retirement- age employees in each depar
 ```
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 The below table shows the number of  mentorship eligible for each department, the maximum number is 396 for development department and  the minimum number is 64 for finance department.
+![5](https://user-images.githubusercontent.com/91231253/146324170-87555d21-cbad-43ad-bdd9-c4e5478975dd.png)
 
-!(C:/Users/zeina/Desktop/5.png?raw=true)
